@@ -24,7 +24,8 @@ INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES
 (7, "Character Three", "motto three", "cylon", 2, 2), 
 (8, "Character Four", "motto four", "cylon", 2, 2);
 
-INSERT INTO authors (id, author_id)
+INSERT INTO authors (id, name) VALUES 
+
 
 
 
