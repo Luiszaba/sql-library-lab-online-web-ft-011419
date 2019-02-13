@@ -1,1 +1,1 @@
-UPDATE characters.species WHERE 
+UPDATE characters.species SET TO 
