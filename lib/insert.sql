@@ -14,4 +14,4 @@ INSERT INTO subgenres (id, name) VALUES
 (1, "medieval"), 
 (2, "space opera");
 
-INSERT INTO characters ()
+INSERT INTO characters 
