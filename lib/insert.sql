@@ -2,4 +2,4 @@ INSERT INTO series (id, title, author_id, subgenre_id) VALUES
 (1, "A Song of Ice and Fire", 1, 1),
 (2, "Second Series", 2, 2);
 
-INSERT INTO books (id, title, year, author_id)
+INSERT INTO books (id, title, year, series_id) VALUES
