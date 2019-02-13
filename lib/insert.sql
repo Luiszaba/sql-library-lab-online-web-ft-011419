@@ -25,8 +25,8 @@ INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES
 (8, "Character Four", "motto four", "cylon", 2, 2);
 
 INSERT INTO authors (id, name) VALUES 
-
-
+(1, "George R. R. Martin"), 
+(2, "Second Author");
 
 
 
