@@ -28,6 +28,7 @@ INSERT INTO authors (id, name) VALUES
 (1, "George R. R. Martin"), 
 (2, "Second Author");
 
+INSERT INTO character_books ()
 
 
 
