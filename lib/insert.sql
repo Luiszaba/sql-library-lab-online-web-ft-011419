@@ -10,4 +10,4 @@ INSERT INTO books (id, title, year, series_id) VALUES
 (5, "Second Book", 2003, 2), 
 (6, "Third Book", 2005, 2);
 
-INSERT INTO subgenres ()
+INSERT INTO subgenres (name, id) VALUES
