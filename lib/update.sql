@@ -1,1 +1,1 @@
-UPDATE characters WHERE 
+UPDATE characters.species WHERE 
