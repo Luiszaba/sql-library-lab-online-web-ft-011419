@@ -1,1 +1,1 @@
-UPDATE characters.species SET TO 
+UPDATE characters SET species =  
