@@ -14,7 +14,7 @@ INSERT INTO subgenres (id, name) VALUES
 (1, "medieval"), 
 (2, "space opera");
 
-INSERT INTO characters ()
+INSERT INTO characters (id, name, motto, species, author_id, series_id)
 (1, "Lady", "Woof Woof", "direwolf", 1, 1), 
 (2, "Tyrion Lannister", "A Lannister always pays his debts", "human", 1, 1),
 (3, "Daenerys Targaryen", "If I look back I am lost", "human", 1, 1), 
