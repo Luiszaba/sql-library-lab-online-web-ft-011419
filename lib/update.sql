@@ -1,1 +1,1 @@
-UPDATE species WHERE 
+UPDATE characters WHERE 
